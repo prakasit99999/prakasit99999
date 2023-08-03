@@ -5,7 +5,7 @@ Hello. My name is Xiao. This is my introduction. I'm a hobbyist, but my favorite
 
 * 🌍  I'm based in T
 * ✉️  You can contact me at [tomtam@gmsil.com](mailto:tomtam@gmsil.com)
-* 🧠  I'm learning p
+* 🧠  I'm learning python , C++, C#, C , javascript, php , network
 
 ### Skills
 
