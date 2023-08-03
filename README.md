@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prakasit
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prakasit
 ================================================================================================================================
 
 Hello. My name is Xiao. This is my introduction. I'm a hobbyist, but my favorite hobbies are chess and chess. I like to play these games because they challenge ideas and develop planning skills. I also like to study computer science, because I want to be a programmer in the future. I think programming is fun and unlimited creativity
@@ -30,7 +30,7 @@ Hello. My name is Xiao. This is my introduction. I'm a hobbyist, but my favorite
 </p>
 
 
-### Socials
+### Socials 
 
 <p align="left"> <a href="https://www.github.com/@prakasit99999" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
